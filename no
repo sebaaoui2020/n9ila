@@ -1,0 +1,64 @@
+{
+    "Ads": {
+        "AdMob": {
+            "activated": false,
+            "banner": "ca-app-pub-8120973193756033/2770666206",
+            "native": "ca-app-pub-8120973193756033/2579094519",
+            "interstitial": "ca-app-pub-8120973193756033/4341099872"
+        },
+        "FAN": {
+            "activated": false,
+            "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        },
+        "ironSource": {
+            "activated": false,
+            "app_key": "11dae943d"
+        },
+        "Tapdaq": {
+            "activated": false,
+            "AppId": "619f526486c31c4e07c1134c",
+            "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+        },
+        "Yandex": {
+            "banner": "R-M-1632503-1",
+            "native": "R-M-1632503-2",
+            "interstitial": "R-M-1632503-3"
+        }
+    },
+    "Config": {
+        "app_version": "1.0",
+        "package_name": "com.moroo.domoo",
+        "rattingIsEnabled": false
+    },
+    "Privacy": {
+        "isEnabled": true,
+        "title": "Privacy Policy",
+        "message": "Privacy Policy Message",
+        "url": "https://sites.google.com/view/mommy-long/home"
+    },
+    "GuideContent": [
+        {
+            "title": "Chapter 1",
+            "description": "After many years, the player an ex-employee of Playtime.Co returns to the workplace. They begin by completing a puzzle on a moving toy train using three different colors. This enables them to gain access to the security room, where one of the grab pack hands can be unlocked. Grab Packs can rewire electrical cables and unlock doors. Using this precise hand, the player eventually unlocks a door. Inside a circular area, they find a blue monster dubbed “Huggy Wuggy.” Although the gate does not open, this former employee tries to unlock a door with this hand. "
+        },
+        {
+            "title": "Chapter 2",
+
+            "description": "When the player returns his gaze to Huggy Wuggy, he notices that he has gained access to the power room keys. You take his keys and enter the Power Room through the Power Room entrance. They discover that the power is out and decide to wrap the arm of their grab pack around some generators while pressing the power button. The power is turned on inside the factory as a result of this. They walk into the next room and open the door (now that the power is working). On either side of the player, two doors emerge, one open and the other locked. The closest pipe (unexpectedly) bursts as we are led into this area by a hand. "
+        },
+        {
+            "title": "Chapter 3",
+            "description": "This employee eventually finds himself in a new room. (It looks that the space is part of the facility’s storage/warehouse.) They climb two flights of stairs and discover four power cores gone, before jumping down into the factory’s conveyer belt. The person must search the entire chamber until all four of these cells are found, then open the door that they arrived through. The prior employee ensures that all four power cells are in position and that the claw is powered up as quickly as possible. This claw takes the box, drops it on the conveyer belt, and the player receives his second hand. "
+        },
+        {
+            "title": "Chapter 4",
+            "description": "The player must use both hands to open the door in front of them. They descend into a room within the vents after opening this metal door. (It’s merely a different wiring scheme.) This belt gets a boost of power and begins to move. This takes them to a chamber where they must power the gadget for the third time by wiring it. To make a toy, you must first activate the power, then press the button and pull all three levers. The toy is assembled, painted, and quality checked by this machine. You’ll be able to grasp this toy and place it into a small scanner quite quickly. The following room is quickly unlocked by the scanner. "
+        },
+        {
+            "title": "Chapter 5",
+            "description": "Huggy Wuggy reappears just as you’re going to enter the circular area again. You must flee and travel through the vent system in order to avoid him. He dashes through the vents on the other side and eventually finds you. You must sprint across the congested section on your right before turning around when you reach the next ledge. Slid down the metallic part of the vents by falling through the metal plate. Turn around and walk straight until you see a little aperture in the vents. Both of these times, crouch into the opening and turn right. "
+        }
+    ]
+}
