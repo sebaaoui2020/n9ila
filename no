@@ -29,7 +29,7 @@
     },
     "Config": {
         "app_version": "1.0",
-        "package_name": "com.moroo.domoo",
+        "package_name": "com.chapetre.wogyhogy",
         "rattingIsEnabled": false
     },
     "Privacy": {
