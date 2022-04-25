@@ -36,7 +36,7 @@
         "isEnabled": true,
         "title": "Privacy Policy",
         "message": "Privacy Policy Message",
-        "url": "https://sites.google.com/view/mommy-long/home"
+        "url": "https://sites.google.com/view/trailer-guide/home"
     },
     "GuideContent": [
         {
