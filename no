@@ -1,7 +1,7 @@
 {
     "Ads": {
         "AdMob": {
-            "activated": true,
+            "activated": false,
             "banner": "ca-app-pub-8120973193756033/2770666206",
             "native": "ca-app-pub-8120973193756033/2579094519",
             "interstitial": "ca-app-pub-8120973193756033/4341099872"
@@ -22,9 +22,9 @@
             "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
         },
         "Yandex": {
-            "banner": "R-M-1632503-1",
-            "native": "R-M-1632503-2",
-            "interstitial": "R-M-1632503-3"
+            "banner": "R-M-1409739-3",
+            "native": "R-M-1409739-1",
+            "interstitial": "R-M-1409739-2"
         }
     },
     "Config": {
